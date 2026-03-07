@@ -32,6 +32,28 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
+
+const brand = document.querySelector(".brand");
+let tapCount = 0;
+let tapTimer;
+
+if (brand) {
+  brand.addEventListener("click", () => {
+    tapCount++;
+
+    clearTimeout(tapTimer);
+    tapTimer = setTimeout(() => {
+      tapCount = 0;
+    }, 700);
+
+    if (tapCount === 3) {
+      toggleSecretBox();
+      tapCount = 0;
+      console.log("Triple tap secret triggered ♡");
+    }
+  });
+}
+  
   if (contactForm && formResponse) {
     contactForm.addEventListener("submit", (event) => {
       event.preventDefault();
