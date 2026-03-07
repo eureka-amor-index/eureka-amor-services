@@ -21,7 +21,5 @@ window.addEventListener("keydown", (event) => {
 });
 
 
-});
-
 console.log("%cSXO Lab secret loaded ♡", "color:#ff9ee8; font-size:16px; font-family:monospace;");
 console.log("%cPress Shift + S for a hidden transmission.", "color:#61efff; font-size:13px; font-family:monospace;");
