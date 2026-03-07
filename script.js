@@ -20,13 +20,7 @@ window.addEventListener("keydown", (event) => {
   }
 });
 
-contactForm.addEventListener("submit", (event) => {
-  event.preventDefault();
 
-  const name = document.getElementById("name").value.trim();
-
-  formResponse.textContent = `Signal received, ${name || "traveler"} ✦ I will get back to you soon.`;
-  contactForm.reset();
 });
 
 console.log("%cSXO Lab secret loaded ♡", "color:#ff9ee8; font-size:16px; font-family:monospace;");
