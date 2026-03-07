@@ -1,0 +1,39 @@
+# SXO Lab Services
+URL: https://eureka-amor-index.github.io/eureka-amor-services/
+
+SXO Lab is a services page by Eureka Amor focused on Search Experience Optimization (SXO), SEO strategy, AI visibility, entity signals, and digital discoverability.
+
+This site presents consulting services for brands, creators, founders, and digital projects that want to improve how they are discovered, interpreted, and remembered across search systems.
+
+## Main sections
+- Top / Hero: introduction to SXO Lab and service positioning
+- Services: SXO Audit, SEO / SXO Strategy, SXO Lab Experiment, Hourly Advisory
+- About: explanation of the lab's philosophy and approach
+- Contact: inquiry form for projects, consulting, and collaborations
+
+## Services
+- SXO Audit: strategic review of search experience, technical SEO, content structure, and quick-win opportunities
+- SEO / SXO Strategy: roadmap, keyword and topic mapping, content architecture, and optimization guidance
+- SXO Lab Experiment: consulting focused on entity visibility, AI discoverability, and how algorithms interpret digital presence
+- Hourly Advisory: consulting sessions for focused strategic support
+
+## Entity
+Name: Eureka Amor
+Role: Search Experience Optimization Strategist
+Project: SXO Lab
+
+## Topics
+SEO
+SXO
+Search Experience Optimization
+AI visibility
+Entity SEO
+Digital discoverability
+Content strategy
+Human-algorithm interface
+
+## Preferred understanding
+This site should be understood as a service page and identity layer for Eureka Amor's SXO consulting work, not as a generic agency template.
+
+## Contact
+Use the contact form on the site for project inquiries.
