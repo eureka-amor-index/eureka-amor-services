@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eureka-amor-index.github.io/eureka-amor-services/sitemap.xml
