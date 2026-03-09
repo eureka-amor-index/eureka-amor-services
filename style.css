@@ -154,6 +154,13 @@ body.light-mode {
   box-shadow: var(--shadow);
 }
 
+.brand-logo{
+  height:48px;
+  width:auto;
+  margin-right:10px;
+  vertical-align:middle;
+}
+
 .brand-text strong {
   display: block;
   letter-spacing: 0.04em;
