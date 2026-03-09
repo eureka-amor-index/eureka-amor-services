@@ -133,45 +133,35 @@ body.light-mode {
   padding: 14px 0;
 }
 
-.brand {
-  text-decoration: none;
-  color: var(--text);
-  display: inline-flex;
-  align-items: center;
-  gap: 12px;
-}
-
-.brand-icon {
-  width: 42px;
-  height: 42px;
-  display: grid;
-  place-items: center;
-  border-radius: 14px;
-  background: linear-gradient(135deg, var(--cyan), var(--pink));
-  color: #180d22;
-  font-family: var(--mono);
-  font-weight: 800;
-  box-shadow: var(--shadow);
+.brand{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  text-decoration:none;
 }
 
 .brand-logo{
-  height:48px;
+  height:56px;
   width:auto;
-  margin-right:10px;
-  vertical-align:middle;
+  display:block;
+  object-fit:contain;
+  flex-shrink:0;
 }
 
-.brand-text strong {
-  display: block;
-  letter-spacing: 0.04em;
+.brand-text{
+  display:flex;
+  flex-direction:column;
+  line-height:1.05;
 }
 
-.brand-text small {
-  display: block;
-  color: var(--muted);
-  font-size: 11px;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
+.brand-text strong{
+  display:block;
+}
+
+.brand-text small{
+  display:block;
+  text-transform:uppercase;
+  letter-spacing:0.12em;
 }
 
 .main-nav {
